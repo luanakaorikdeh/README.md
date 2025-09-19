@@ -35,17 +35,14 @@
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Minhas redes 🤝 </h3>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/gsrafaela/" target="_blank"><img src="https://img.icons8.com/doodle/40/20B2AA/linkedin--v2.png" width="50" height="50"></a>
-<a href="https://www.instagram.com/sgrafaela" target="_blank"><img src="https://img.icons8.com/doodle/40/20B2AA/instagram-new--v2.png" width="50" height="50"></a>
-<a href="https://twitter.com/gsrafaella" target="_blank"><img src="https://img.icons8.com/doodle/1x/20B2AA/twitter-squared--v2.png" width="50" height="50"></a>
+<a href="https://www.linkedin.com" target="_blank"><img src="https://img.icons8.com/doodle/40/20B2AA/linkedin--v2.png" width="50" height="50"></a>
 </div>     
 
 ---
 
 <div align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/616/616490.png" width="50" height="50"/>  
-✨ Que as estrelas da constelação de **Touro** iluminem cada jornada ✨  
+ 
 
 </div>
 
